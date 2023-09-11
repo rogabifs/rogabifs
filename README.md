@@ -1,6 +1,6 @@
 Hello, World 👋
 
-My name is Ronald G., and my nickname is rogabifs! I'm studying *Electrical Engineering* at the University of Campinas. I'm a STEM lover and I am an *iOS Developer at Apple Developer Academy*.
+My name is Ronald G., and my nickname is rogabifs! I'm studying **Electrical Engineering** at the University of Campinas. I'm a STEM lover and I am an **iOS Developer at Apple Developer Academy**.
 
 <!--
 **rogabifs/rogabifs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
