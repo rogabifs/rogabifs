@@ -1,10 +1,19 @@
-###Hello, World 👋
+### Hello, World 👋
 
 My name is Ronald G., and my nickname is rogabifs! I'm studying **Electrical Engineering** at the University of Campinas. I'm a STEM lover and I am an **iOS Developer at Apple Developer Academy**.
 
-##Tools & Technologies:
+## Tools & Technologies:
 
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" widith = "40" height ="40"/>
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" widith = "40" height ="40"/>
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" widith = "40" height ="40"/>
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" widith = "40" height ="40"/>
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" widith = "40" height ="40"/>
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" widith = "40" height ="40"/>
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" widith = "40" height ="40"/>
+
+          
+          
           
 
 <!--
