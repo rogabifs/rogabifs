@@ -6,6 +6,16 @@ My name is Ronald G., and my nickname is rogabifs! I'm studying **Electrical Eng
 
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" widith = "40" height ="40"/>  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" widith = "40" height ="40"/>  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" widith = "40" height ="40"/>  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" widith = "40" height ="40"/>  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" widith = "40" height ="40"/>  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" widith = "40" height ="40"/>  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" widith = "40" height ="40"/>
 
+## Contatos:
+
+<div>
+<a href="https://www.linkedin.com/in/ronald-gabriel-814b45290" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="https://x.com/eudlanor?s=11" target="_blank"><img loading="lazy" src="https://img.shields.io/twitter/follow/:user
+" target="_blank"></a>
+<a href="https://instagram.com/ro_gabrielfs?igshid=NzZlODBkYWE4Ng==" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href = "mailto:ronaldgabrielfs@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>   
+</div>
+
           
           
           
