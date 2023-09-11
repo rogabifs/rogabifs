@@ -4,7 +4,7 @@ My name is Ronald G., and my nickname is rogabifs! I'm studying **Electrical Eng
 
 ##Tools & Technologies:
 
-            <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" / widith = "40" height ="40">
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" widith = "40" height ="40"/>
           
 
 <!--
