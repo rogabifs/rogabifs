@@ -23,7 +23,7 @@ My name is Ronald G., and my nickname is rogabifs! I'm studying **Electrical Eng
 </div>      
 
 <div>
-![Snake animation](https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/rogabifs/rogabifs/blob/output/github-contribution-grid-snake.svg)
 </div>
 <!--
 **rogabifs/rogabifs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
