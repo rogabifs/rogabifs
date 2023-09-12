@@ -22,7 +22,9 @@ My name is Ronald G., and my nickname is rogabifs! I'm studying **Electrical Eng
 <a href = "mailto:ronaldgabrielfs@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>   
 </div>      
 
-
+<div>
+![Snake animation](https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
+</div>
 <!--
 **rogabifs/rogabifs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
