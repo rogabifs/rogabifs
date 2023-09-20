@@ -13,7 +13,7 @@ My name is Ronald G., and my nickname is rogabifs! I'm studying **Electrical Eng
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=rogabifs&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
 </div>
           
-## Contatos:
+## Contacts:
 
 <div>
 <a href="https://www.linkedin.com/in/ronald-gabriel-814b45290" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
