@@ -17,13 +17,11 @@ My name is Ronald G., and my nickname is rogabifs! I'm studying **Electrical Eng
 
 <div>
 <a href="https://www.linkedin.com/in/ronald-gabriel-814b45290" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="https://x.com/eudlanor?s=11" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-X-%23000000?style=for-the-badge&logo=X&logoColor=white"></a>
-<a href="https://instagram.com/ro_gabrielfs?igshid=NzZlODBkYWE4Ng==" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href = "mailto:ronaldgabrielfs@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>   
 </div>      
 
 
-![Snake animation](https://github.com/rogabifs/rogabifs/blob/output/github-contribution-grid-snake.svg)
+
 
 <!--
 **rogabifs/rogabifs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
