@@ -1,6 +1,6 @@
 # Hello, World 👋
 
-My name is Ronald G., and my nickname is rogabifs! I'm studying **Electrical Engineering** at the University of Campinas. I'm a STEM enthusiast and an **iOS Developer Alumni of the Apple Developer Academy.**.
+My name is Ronald G., and my nickname is rogabifs! I'm studying **Electrical Engineering** at the University of Campinas. I'm a STEM enthusiast and an **iOS Developer Alumni of the Apple Developer Academy**.
 
 ## Tools & Technologies:
 
